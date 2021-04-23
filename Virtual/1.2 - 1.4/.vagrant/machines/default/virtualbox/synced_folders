@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/egorski/Documents/Programming/itransition/itransitionTasks/Virtual/1.2 - 1.4","disabled":false,"__vagrantfile":true}}}
+=======
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/egorski/Documents/Programming/itransition/Packer/ubuntu1804","disabled":false,"__vagrantfile":true}}}
+>>>>>>> a046dcc18bec977bfca04574593f07c41534983c
