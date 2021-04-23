@@ -6,7 +6,7 @@ read -t $second str
 
 if [ -z "$str" ]
 then
-	echo "You ran out of time :("
+    echo "You ran out of time :("
 else
-	echo "You entered: $str"
+    echo "You entered: $str"
 fi

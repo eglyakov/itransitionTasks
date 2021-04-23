@@ -2,13 +2,13 @@
 
 if [ ! -n "$1" ]
 then
-	echo No parameters
-	exit 1
+    echo No parameters
+    exit 1
 fi
 
 while [ -n "$1" ]
 do
-	echo $1
-	shift
+    echo $1
+    shift
 done
 
